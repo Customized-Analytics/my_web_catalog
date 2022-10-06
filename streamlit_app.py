@@ -1,8 +1,6 @@
 import streamlit
 import snowflake.connector
 import pandas
-from PIL import Image
-from urllib.request import urlopen 
 
 streamlit.title('My amazing Web Catalog')
 # connect to snowflake

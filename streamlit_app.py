@@ -1,3 +1,3 @@
 import streamlit
 
-stramlit.title('My first Web Catalgo')
+streamlit.title('My first Web Catalgo')
